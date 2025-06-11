@@ -1,0 +1,8 @@
+service/BookService$ServiceResult.class
+model/Book.class
+gui/LibraryManagementGUI.class
+util/DatabaseConnection.class
+dao/BookDAO.class
+gui/LibraryManagementGUI$1.class
+service/BookService.class
+main/Main.class
